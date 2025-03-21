@@ -59,12 +59,11 @@
 
 ###
 
-<h3 align="left">🔥   Meu Status :</h3>
+<h3 align="left"></h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Helio-Fagundes&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
