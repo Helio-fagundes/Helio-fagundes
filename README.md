@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e interesse no ecossistema de desenvolvimento back-end. Atualmente, estou me especializando em ciência da computação, buscando criar soluções robustas, escaláveis e eficientes para diferentes desafios.<br><br>Meu objetivo é contribuir para projetos inovadores que impactem positivamente as pessoas, enquanto aprimoro minhas habilidades técnicas e de trabalho em equipe. Sou motivado por desafios e acredito no aprendizado contínuo como base para o crescimento pessoal e profissional.<br><br>Atualmente focado em expandir meus conhecimentos, cursando ciência da computação e desenvolvimento back-end, com planos de seguir para uma pós-graduação no futuro.<br><br>Email: helioemvezdisso@gmail.com</p>
+<p align="left">Sou apaixonado por tecnologia e desenvolvimento de software, com experiência e interesse no ecossistema de desenvolvimento back-end. Atualmente, estou me especializando em ciência da computação, buscando criar soluções robustas, escaláveis e eficientes para diferentes desafios.<br><br>Meu objetivo é contribuir para projetos inovadores que impactem positivamente as pessoas, enquanto aprimoro minhas habilidades técnicas e de trabalho em equipe. Sou motivado por desafios e acredito no aprendizado contínuo como base para o crescimento pessoal e profissional.<br><br>Atualmente focado em expandir meus conhecimentos, cursando ciência da computação e desenvolvimento back-end, com planos de seguir para uma pós-graduação no futuro.<br><br>Email: helio.fagundes.dev@gmail.com</p>
 
 ###
 
