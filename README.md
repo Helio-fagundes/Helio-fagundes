@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="./Spring_Framework-Logo.wine.png" height="70" alt="spring logo"  />
+  <img src="./a9681788-5037-4b73-b9f3-8e3af381eae4.png" height="35" alt="spring logo"  />
 </div>
 
 ###
